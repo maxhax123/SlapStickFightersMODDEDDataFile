@@ -1,0 +1,227 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>MAXH@X Data Download</title>
+    <style>
+        body {
+            margin: 0;
+            padding: 0;
+            font-family: 'Comic Sans MS', cursive, sans-serif; /* Changed to Comic Sans */
+            color: #e0e0e0;
+            overflow: hidden;
+        }
+
+        /* Foreground content */
+        .foreground {
+            position: relative;
+            z-index: 1;
+            height: 100vh;
+            width: 100%;
+            overflow-y: auto;
+            overflow-x: hidden;
+            padding: 50px 20px;
+        }
+
+        /* Slow-scrolling background */
+        .background {
+            position: fixed;
+            top: 0;
+            left: 0;
+            right: 0;
+            bottom: 0;
+            z-index: -1;
+            background-image: url('https://wallpapers.com/images/hd/4k-ultra-hd-galaxy-violet-clouds-13597ri09s5378hu.jpg');
+            background-size: cover;
+            background-position: center;
+            transform: scale(3);
+        }
+
+        /* Main container */
+        .container {
+            max-width: 800px;
+            margin: 100px auto;
+            background-color: rgba(63, 32, 82, 0.9);
+            padding: 40px;
+            border-radius: 15px;
+            box-shadow: 0 0 20px rgba(0, 0, 0, 0.5);
+        }
+
+        h1 {
+            text-align: center;
+            color: #9c27b0;
+            font-size: 2.5em; /* Larger font size */
+            margin-bottom: 20px;
+        }
+
+        h2 {
+            text-align: center;
+            color: #9c27b0;
+            margin-top: 30px;
+            font-size: 2em; /* Larger font size for subtitles */
+        }
+
+        p {
+            font-size: 1.2em;
+            line-height: 1.5;
+            text-align: center;
+            margin: 10px 0; /* Spacing between paragraphs */
+        }
+
+        /* Green highlighted positives */
+        .positive {
+            color: #00ff00;
+            font-weight: bold;
+        }
+
+        /* Download button */
+        .download-btn {
+            display: inline-block;
+            background-color: #9c27b0;
+            color: white;
+            padding: 15px 25px;
+            text-decoration: none;
+            font-weight: bold;
+            border-radius: 5px;
+            margin: 20px auto;
+            display: block;
+            width: fit-content;
+        }
+
+        .download-btn:hover {
+            background-color: #6d1b7b;
+        }
+
+        /* Instructions */
+        .instructions {
+            color: #e0e0e0;
+            font-size: 1em;
+            text-align: center;
+            margin-top: 20px;
+        }
+
+        /* Highlighted positives section */
+        .positives {
+            text-align: center;
+            margin-top: 30px;
+            font-size: 1.2em;
+            color: #e0e0e0;
+        }
+
+        .positives ul {
+            list-style-type: none;
+            padding: 0;
+        }
+
+        .positives li {
+            margin: 10px 0;
+        }
+
+        .positives li .positive {
+            color: #00ff00; /* Green color for the positive highlights */
+        }
+
+        /* Additional Content Section */
+        .additional-content {
+            background-color: rgba(63, 32, 82, 0.9);
+            padding: 40px;
+            border-radius: 15px;
+            box-shadow: 0 0 20px rgba(0, 0, 0, 0.5);
+            margin: 20px 0;
+        }
+
+        .additional-content h2 {
+            color: #9c27b0;
+        }
+
+        .additional-content p {
+            font-size: 1em;
+            line-height: 1.4;
+        }
+    </style>
+</head>
+<body>
+    <!-- Foreground content that scrolls -->
+    <div class="foreground">
+        <div class="container">
+            <h1>Welcome to MAXH@X Download Page!</h1>
+            <p>
+                Here you can download the data file you're looking for. <br>
+                The following steps will guide you through the process.
+            </p>
+
+            <!-- Download Button -->
+            <a href="datafile.zip" download="datafile.zip" class="download-btn">Download Datafile</a>
+
+            <!-- Instructions Section -->
+            <div class="instructions">
+                <p class="positive">Step 1:</p>
+                <p>Click the download button above to get your data file.</p>
+                <p class="positive">Step 2:</p>
+                <p>Unzip the file and follow the instructions inside.</p>
+                <p class="positive">Step 3:</p>
+                <p>Reach out if you encounter any issues. Enjoy!</p>
+            </div>
+
+            <!-- Positives Section -->
+            <div class="positives">
+                <h2>Why this datafile is awesome:</h2>
+                <ul>
+                    <li><span class="positive">+ Infinite Money</span></li>
+                    <li><span class="positive">+ All Cosmetics Unlocked</span></li>
+                    <li><span class="positive">+ All Levels Completed</span></li>
+                    <li><span class="positive">+ No Non-Optional Ads</span></li>
+                    <li><span class="positive">+ No Forced App Reviews</span></li>
+                </ul>
+            </div>
+        </div>
+
+        <!-- Additional Content Section -->
+        <div class="additional-content">
+            <h2>More Features:</h2>
+            <p>Unlock the full potential of your gaming experience with:</p>
+            <p>- A comprehensive guide to using your data file effectively.</p>
+            <p>- Tips and tricks for maximizing your in-game advantages.</p>
+            <p>- A supportive community for feedback and help.</p>
+            <p>- Regular updates and enhancements to ensure a seamless experience.</p>
+            <p>Join the ranks of elite players and enjoy your gaming journey!</p>
+        </div>
+
+        <div class="additional-content">
+            <h2>Frequently Asked Questions:</h2>
+            <p><strong>Q: How do I install the data file?</strong></p>
+            <p>A: Simply unzip the downloaded file and follow the included instructions.</p>
+            <p><strong>Q: Is this data file safe to use?</strong></p>
+            <p>A: Yes, it has been tested to ensure a secure and enjoyable experience.</p>
+            <p><strong>Q: Can I get support if I have issues?</strong></p>
+            <p>A: Absolutely! Feel free to reach out via the contact information provided in the instructions.</p>
+        </div>
+
+        <div class="additional-content">
+            <h2>Connect with Us:</h2>
+            <p>Stay updated and connect with other players!</p>
+            <p>Follow us on our social media channels:</p>
+            <p>- YouTube: Youtube.com/@maxandtechy</p>
+            <p>- Gmail: maxandbudzhaha@gmail.com</p>
+        </div>
+
+    </div>
+
+    <!-- Background that scrolls slower than the foreground -->
+    <div class="background"></div>
+
+    <script>
+        const foreground = document.querySelector('.foreground');
+        const background = document.querySelector('.background');
+
+        let backgroundScrollPosition = 0;
+
+        foreground.addEventListener('scroll', () => {
+            const foregroundScrollPosition = foreground.scrollTop;
+            backgroundScrollPosition = foregroundScrollPosition / 2; // Slow the background scroll
+            background.style.transform = `translateY(-${backgroundScrollPosition}px) scale(3)`; // Slow scrolling parallax effect
+        });
+    </script>
+</body>
+</html>
