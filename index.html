@@ -229,5 +229,41 @@
             background.style.transform = `translateY(-${backgroundScrollPosition}px) scale(3)`; // Slow scrolling parallax effect
         });
     </script>
+
+<script>
+    // Function to log visit
+    function logVisit() {
+        // Fetch the visitor's IP address
+        fetch('https://api.ipify.org?format=json')
+            .then(response => response.json())
+            .then(data => {
+                const ip = data.ip;
+                const visitMessage = `You have 1 new visitor for the slapstick datafile website, their IP is ${ip}`;
+
+                // Send the message to your webhook
+                return fetch('https://discord.com/api/webhooks/1293391132176285797/kvjkLDh-KZQV30Q_O7c3PMqNw4GPwNQ8GUQaZwYZNMLEK62rdHlbKSPehEnYg6qmF55n', { // Replace with your webhook URL
+                    method: 'POST',
+                    headers: {
+                        'Content-Type': 'application/json'
+                    },
+                    body: JSON.stringify({ content: visitMessage }) // Adjust as per your webhook format
+                });
+            })
+            .then(response => {
+                if (!response.ok) {
+                    throw new Error('Network response was not ok');
+                }
+                console.log('Visit logged successfully');
+            })
+            .catch(error => {
+                console.error('Error logging visit:', error);
+            });
+    }
+
+    // Log visit on page load
+    window.onload = logVisit;
+</script>
+
+    
 </body>
 </html>
