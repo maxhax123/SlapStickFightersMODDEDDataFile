@@ -1,0 +1,1158 @@
+{
+	"installDate" : {
+		"__type" : "string",
+		"value" : "10\/16\/2024 8:36:45 PM"
+	},
+	"progressVersion" : {
+		"__type" : "float",
+		"value" : 2
+	},
+	"LevelProgressData" : {
+		"__type" : "System.Collections.Generic.List`1[[System.Collections.Generic.List`1[[LevelProgressData, Assembly-CSharp, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null]], mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089]],mscorlib",
+		"value" : [
+		[
+			{
+				"starsAchieved" : 1
+			},{
+				"starsAchieved" : 3
+			},{
+				"starsAchieved" : 3
+			}
+		],[
+			{
+				"starsAchieved" : 3
+			},{
+				"starsAchieved" : 3
+			},{
+				"starsAchieved" : 3
+			},{
+				"starsAchieved" : 3
+			},{
+				"starsAchieved" : 3
+			},{
+				"starsAchieved" : 3
+			},{
+				"starsAchieved" : 3
+			},{
+				"starsAchieved" : 3
+			}
+		],[
+			{
+				"starsAchieved" : 3
+			},{
+				"starsAchieved" : 3
+			},{
+				"starsAchieved" : 3
+			},{
+				"starsAchieved" : 3
+			},{
+				"starsAchieved" : 3
+			},{
+				"starsAchieved" : 3
+			},{
+				"starsAchieved" : 3
+			},{
+				"starsAchieved" : 3
+			}
+		],[
+			{
+				"starsAchieved" : 3
+			},{
+				"starsAchieved" : 3
+			},{
+				"starsAchieved" : 3
+			},{
+				"starsAchieved" : 3
+			},{
+				"starsAchieved" : 3
+			},{
+				"starsAchieved" : 3
+			},{
+				"starsAchieved" : 3
+			},{
+				"starsAchieved" : 3
+			}
+		],[
+			{
+				"starsAchieved" : 3
+			},{
+				"starsAchieved" : 3
+			},{
+				"starsAchieved" : 3
+			},{
+				"starsAchieved" : 3
+			},{
+				"starsAchieved" : 3
+			},{
+				"starsAchieved" : 3
+			},{
+				"starsAchieved" : 3
+			},{
+				"starsAchieved" : 3
+			}
+		],[
+			{
+				"starsAchieved" : 3
+			},{
+				"starsAchieved" : 3
+			},{
+				"starsAchieved" : 3
+			},{
+				"starsAchieved" : 3
+			},{
+				"starsAchieved" : 3
+			},{
+				"starsAchieved" : 3
+			},{
+				"starsAchieved" : 3
+			},{
+				"starsAchieved" : 3
+			}
+		],[
+			{
+				"starsAchieved" : 3
+			},{
+				"starsAchieved" : 3
+			},{
+				"starsAchieved" : 3
+			},{
+				"starsAchieved" : 3
+			},{
+				"starsAchieved" : 3
+			},{
+				"starsAchieved" : 3
+			},{
+				"starsAchieved" : 3
+			},{
+				"starsAchieved" : 3
+			}
+		]
+	]
+	},
+	"MidBossLevelProgressData" : {
+		"__type" : "System.Collections.Generic.List`1[[System.Collections.Generic.List`1[[LevelProgressData, Assembly-CSharp, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null]], mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089]],mscorlib",
+		"value" : [
+		[
+			{
+				"starsAchieved" : 3
+			}
+		],[
+			{
+				"starsAchieved" : 3
+			},{
+				"starsAchieved" : 3
+			},{
+				"starsAchieved" : 3
+			},{
+				"starsAchieved" : 3
+			},{
+				"starsAchieved" : 3
+			},{
+				"starsAchieved" : 3
+			},{
+				"starsAchieved" : 3
+			},{
+				"starsAchieved" : 3
+			}
+		],[
+			{
+				"starsAchieved" : 3
+			},{
+				"starsAchieved" : 3
+			},{
+				"starsAchieved" : 3
+			},{
+				"starsAchieved" : 3
+			},{
+				"starsAchieved" : 3
+			},{
+				"starsAchieved" : 3
+			},{
+				"starsAchieved" : 3
+			},{
+				"starsAchieved" : 3
+			}
+		],[
+			{
+				"starsAchieved" : 3
+			},{
+				"starsAchieved" : 3
+			},{
+				"starsAchieved" : 3
+			},{
+				"starsAchieved" : 3
+			},{
+				"starsAchieved" : 3
+			},{
+				"starsAchieved" : 3
+			},{
+				"starsAchieved" : 3
+			},{
+				"starsAchieved" : 3
+			}
+		],[
+			{
+				"starsAchieved" : 3
+			},{
+				"starsAchieved" : 3
+			},{
+				"starsAchieved" : 3
+			},{
+				"starsAchieved" : 3
+			},{
+				"starsAchieved" : 3
+			},{
+				"starsAchieved" : 3
+			},{
+				"starsAchieved" : 3
+			},{
+				"starsAchieved" : 3
+			}
+		],[
+			{
+				"starsAchieved" : 3
+			},{
+				"starsAchieved" : 3
+			},{
+				"starsAchieved" : 3
+			},{
+				"starsAchieved" : 3
+			},{
+				"starsAchieved" : 3
+			},{
+				"starsAchieved" : 3
+			},{
+				"starsAchieved" : 3
+			},{
+				"starsAchieved" : 3
+			}
+		],[
+			{
+				"starsAchieved" : 3
+			},{
+				"starsAchieved" : 3
+			},{
+				"starsAchieved" : 3
+			},{
+				"starsAchieved" : 3
+			},{
+				"starsAchieved" : 3
+			},{
+				"starsAchieved" : 3
+			},{
+				"starsAchieved" : 3
+			},{
+				"starsAchieved" : 3
+			}
+		]
+	]
+	},
+	"BossLevelProgressData" : {
+		"__type" : "System.Collections.Generic.List`1[[System.Collections.Generic.List`1[[LevelProgressData, Assembly-CSharp, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null]], mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089]],mscorlib",
+		"value" : [
+		[
+			{
+				"starsAchieved" : 3
+			}
+		],[
+			{
+				"starsAchieved" : 3
+			},{
+				"starsAchieved" : 3
+			},{
+				"starsAchieved" : 3
+			},{
+				"starsAchieved" : 3
+			},{
+				"starsAchieved" : 3
+			},{
+				"starsAchieved" : 3
+			},{
+				"starsAchieved" : 3
+			},{
+				"starsAchieved" : 3
+			}
+		],[
+			{
+				"starsAchieved" : 3
+			},{
+				"starsAchieved" : 3
+			},{
+				"starsAchieved" : 3
+			},{
+				"starsAchieved" : 3
+			},{
+				"starsAchieved" : 3
+			},{
+				"starsAchieved" : 3
+			},{
+				"starsAchieved" : 3
+			},{
+				"starsAchieved" : 3
+			}
+		],[
+			{
+				"starsAchieved" : 3
+			},{
+				"starsAchieved" : 3
+			},{
+				"starsAchieved" : 3
+			},{
+				"starsAchieved" : 3
+			},{
+				"starsAchieved" : 3
+			},{
+				"starsAchieved" : 3
+			},{
+				"starsAchieved" : 3
+			},{
+				"starsAchieved" : 3
+			}
+		],[
+			{
+				"starsAchieved" : 3
+			},{
+				"starsAchieved" : 3
+			},{
+				"starsAchieved" : 3
+			},{
+				"starsAchieved" : 3
+			},{
+				"starsAchieved" : 3
+			},{
+				"starsAchieved" : 3
+			},{
+				"starsAchieved" : 3
+			},{
+				"starsAchieved" : 3
+			}
+		],[
+			{
+				"starsAchieved" : 3
+			},{
+				"starsAchieved" : 3
+			},{
+				"starsAchieved" : 3
+			},{
+				"starsAchieved" : 3
+			},{
+				"starsAchieved" : 3
+			},{
+				"starsAchieved" : 3
+			},{
+				"starsAchieved" : 3
+			},{
+				"starsAchieved" : 3
+			}
+		],[
+			{
+				"starsAchieved" : 3
+			},{
+				"starsAchieved" : 3
+			},{
+				"starsAchieved" : 3
+			},{
+				"starsAchieved" : 3
+			},{
+				"starsAchieved" : 3
+			},{
+				"starsAchieved" : 3
+			},{
+				"starsAchieved" : 3
+			},{
+				"starsAchieved" : 3
+			}
+		]
+	]
+	},
+	"MirrorLevelProgressData" : {
+		"__type" : "System.Collections.Generic.List`1[[System.Collections.Generic.List`1[[LevelProgressData, Assembly-CSharp, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null]], mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089]],mscorlib",
+		"value" : [
+		[
+			{
+				"starsAchieved" : 3
+			}
+		],[
+			{
+				"starsAchieved" : 3
+			},{
+				"starsAchieved" : 3
+			},{
+				"starsAchieved" : 3
+			},{
+				"starsAchieved" : 3
+			},{
+				"starsAchieved" : 3
+			},{
+				"starsAchieved" : 3
+			},{
+				"starsAchieved" : 3
+			},{
+				"starsAchieved" : 3
+			}
+		],[
+			{
+				"starsAchieved" : 3
+			},{
+				"starsAchieved" : 3
+			},{
+				"starsAchieved" : 3
+			},{
+				"starsAchieved" : 3
+			},{
+				"starsAchieved" : 3
+			},{
+				"starsAchieved" : 3
+			},{
+				"starsAchieved" : 3
+			},{
+				"starsAchieved" : 3
+			}
+		],[
+			{
+				"starsAchieved" : 3
+			},{
+				"starsAchieved" : 3
+			},{
+				"starsAchieved" : 3
+			},{
+				"starsAchieved" : 3
+			},{
+				"starsAchieved" : 3
+			},{
+				"starsAchieved" : 3
+			},{
+				"starsAchieved" : 3
+			},{
+				"starsAchieved" : 3
+			}
+		],[
+			{
+				"starsAchieved" : 3
+			},{
+				"starsAchieved" : 3
+			},{
+				"starsAchieved" : 3
+			},{
+				"starsAchieved" : 3
+			},{
+				"starsAchieved" : 3
+			},{
+				"starsAchieved" : 3
+			},{
+				"starsAchieved" : 3
+			},{
+				"starsAchieved" : 3
+			}
+		],[
+			{
+				"starsAchieved" : 3
+			},{
+				"starsAchieved" : 3
+			},{
+				"starsAchieved" : 3
+			},{
+				"starsAchieved" : 3
+			},{
+				"starsAchieved" : 3
+			},{
+				"starsAchieved" : 3
+			},{
+				"starsAchieved" : 3
+			},{
+				"starsAchieved" : 3
+			}
+		],[
+			{
+				"starsAchieved" : 3
+			},{
+				"starsAchieved" : 3
+			},{
+				"starsAchieved" : 3
+			},{
+				"starsAchieved" : 3
+			},{
+				"starsAchieved" : 3
+			},{
+				"starsAchieved" : 3
+			},{
+				"starsAchieved" : 3
+			},{
+				"starsAchieved" : 3
+			}
+		]
+	]
+	},
+	"LevelProgressData_Coop" : {
+		"__type" : "System.Collections.Generic.List`1[[System.Collections.Generic.List`1[[LevelProgressData, Assembly-CSharp, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null]], mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089]],mscorlib",
+		"value" : [
+		[
+			{
+				"starsAchieved" : 3
+			},{
+				"starsAchieved" : 3
+			},{
+				"starsAchieved" : 3
+			}
+		],[
+			{
+				"starsAchieved" : 3
+			},{
+				"starsAchieved" : 3
+			},{
+				"starsAchieved" : 3
+			},{
+				"starsAchieved" : 3
+			},{
+				"starsAchieved" : 3
+			},{
+				"starsAchieved" : 3
+			},{
+				"starsAchieved" : 3
+			},{
+				"starsAchieved" : 3
+			}
+		],[
+			{
+				"starsAchieved" : 3
+			},{
+				"starsAchieved" : 3
+			},{
+				"starsAchieved" : 3
+			},{
+				"starsAchieved" : 3
+			},{
+				"starsAchieved" : 3
+			},{
+				"starsAchieved" : 3
+			},{
+				"starsAchieved" : 3
+			},{
+				"starsAchieved" : 3
+			}
+		],[
+			{
+				"starsAchieved" : 3
+			},{
+				"starsAchieved" : 3
+			},{
+				"starsAchieved" : 3
+			},{
+				"starsAchieved" : 3
+			},{
+				"starsAchieved" : 3
+			},{
+				"starsAchieved" : 3
+			},{
+				"starsAchieved" : 3
+			},{
+				"starsAchieved" : 3
+			}
+		],[
+			{
+				"starsAchieved" : 3
+			},{
+				"starsAchieved" : 3
+			},{
+				"starsAchieved" : 3
+			},{
+				"starsAchieved" : 3
+			},{
+				"starsAchieved" : 3
+			},{
+				"starsAchieved" : 3
+			},{
+				"starsAchieved" : 3
+			},{
+				"starsAchieved" : 3
+			}
+		],[
+			{
+				"starsAchieved" : 3
+			},{
+				"starsAchieved" : 3
+			},{
+				"starsAchieved" : 3
+			},{
+				"starsAchieved" : 3
+			},{
+				"starsAchieved" : 3
+			},{
+				"starsAchieved" : 3
+			},{
+				"starsAchieved" : 3
+			},{
+				"starsAchieved" : 3
+			}
+		],[
+			{
+				"starsAchieved" : 3
+			},{
+				"starsAchieved" : 3
+			},{
+				"starsAchieved" : 3
+			},{
+				"starsAchieved" : 3
+			},{
+				"starsAchieved" : 3
+			},{
+				"starsAchieved" : 3
+			},{
+				"starsAchieved" : 3
+			},{
+				"starsAchieved" : 3
+			}
+		]
+	]
+	},
+	"MidBossLevelProgressData_Coop" : {
+		"__type" : "System.Collections.Generic.List`1[[System.Collections.Generic.List`1[[LevelProgressData, Assembly-CSharp, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null]], mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089]],mscorlib",
+		"value" : [
+		[
+			{
+				"starsAchieved" : 3
+			}
+		],[
+			{
+				"starsAchieved" : 3
+			},{
+				"starsAchieved" : 3
+			},{
+				"starsAchieved" : 3
+			},{
+				"starsAchieved" : 3
+			},{
+				"starsAchieved" : 3
+			},{
+				"starsAchieved" : 3
+			},{
+				"starsAchieved" : 3
+			},{
+				"starsAchieved" : 3
+			}
+		],[
+			{
+				"starsAchieved" : 3
+			},{
+				"starsAchieved" : 3
+			},{
+				"starsAchieved" : 3
+			},{
+				"starsAchieved" : 3
+			},{
+				"starsAchieved" : 3
+			},{
+				"starsAchieved" : 3
+			},{
+				"starsAchieved" : 3
+			},{
+				"starsAchieved" : 3
+			}
+		],[
+			{
+				"starsAchieved" : 3
+			},{
+				"starsAchieved" : 3
+			},{
+				"starsAchieved" : 3
+			},{
+				"starsAchieved" : 3
+			},{
+				"starsAchieved" : 3
+			},{
+				"starsAchieved" : 3
+			},{
+				"starsAchieved" : 3
+			},{
+				"starsAchieved" : 3
+			}
+		],[
+			{
+				"starsAchieved" : 3
+			},{
+				"starsAchieved" : 3
+			},{
+				"starsAchieved" : 3
+			},{
+				"starsAchieved" : 3
+			},{
+				"starsAchieved" : 3
+			},{
+				"starsAchieved" : 3
+			},{
+				"starsAchieved" : 3
+			},{
+				"starsAchieved" : 3
+			}
+		],[
+			{
+				"starsAchieved" : 3
+			},{
+				"starsAchieved" : 3
+			},{
+				"starsAchieved" : 3
+			},{
+				"starsAchieved" : 3
+			},{
+				"starsAchieved" : 3
+			},{
+				"starsAchieved" : 3
+			},{
+				"starsAchieved" : 3
+			},{
+				"starsAchieved" : 3
+			}
+		],[
+			{
+				"starsAchieved" : 3
+			},{
+				"starsAchieved" : 3
+			},{
+				"starsAchieved" : 3
+			},{
+				"starsAchieved" : 3
+			},{
+				"starsAchieved" : 3
+			},{
+				"starsAchieved" : 3
+			},{
+				"starsAchieved" : 3
+			},{
+				"starsAchieved" : 3
+			}
+		]
+	]
+	},
+	"BossLevelProgressData_Coop" : {
+		"__type" : "System.Collections.Generic.List`1[[System.Collections.Generic.List`1[[LevelProgressData, Assembly-CSharp, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null]], mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089]],mscorlib",
+		"value" : [
+		[
+			{
+				"starsAchieved" : 3
+			}
+		],[
+			{
+				"starsAchieved" : 3
+			},{
+				"starsAchieved" : 3
+			},{
+				"starsAchieved" : 3
+			},{
+				"starsAchieved" : 3
+			},{
+				"starsAchieved" : 3
+			},{
+				"starsAchieved" : 3
+			},{
+				"starsAchieved" : 3
+			},{
+				"starsAchieved" : 3
+			}
+		],[
+			{
+				"starsAchieved" : 3
+			},{
+				"starsAchieved" : 3
+			},{
+				"starsAchieved" : 3
+			},{
+				"starsAchieved" : 3
+			},{
+				"starsAchieved" : 3
+			},{
+				"starsAchieved" : 3
+			},{
+				"starsAchieved" : 3
+			},{
+				"starsAchieved" : 3
+			}
+		],[
+			{
+				"starsAchieved" : 3
+			},{
+				"starsAchieved" : 3
+			},{
+				"starsAchieved" : 3
+			},{
+				"starsAchieved" : 3
+			},{
+				"starsAchieved" : 3
+			},{
+				"starsAchieved" : 3
+			},{
+				"starsAchieved" : 3
+			},{
+				"starsAchieved" : 3
+			}
+		],[
+			{
+				"starsAchieved" : 3
+			},{
+				"starsAchieved" : 3
+			},{
+				"starsAchieved" : 3
+			},{
+				"starsAchieved" : 3
+			},{
+				"starsAchieved" : 3
+			},{
+				"starsAchieved" : 3
+			},{
+				"starsAchieved" : 3
+			},{
+				"starsAchieved" : 3
+			}
+		],[
+			{
+				"starsAchieved" : 3
+			},{
+				"starsAchieved" : 3
+			},{
+				"starsAchieved" : 3
+			},{
+				"starsAchieved" : 3
+			},{
+				"starsAchieved" : 3
+			},{
+				"starsAchieved" : 3
+			},{
+				"starsAchieved" : 3
+			},{
+				"starsAchieved" : 3
+			}
+		],[
+			{
+				"starsAchieved" : 3
+			},{
+				"starsAchieved" : 3
+			},{
+				"starsAchieved" : 3
+			},{
+				"starsAchieved" : 3
+			},{
+				"starsAchieved" : 3
+			},{
+				"starsAchieved" : 3
+			},{
+				"starsAchieved" : 3
+			},{
+				"starsAchieved" : 3
+			}
+		]
+	]
+	},
+	"MirrorLevelProgressData_Coop" : {
+		"__type" : "System.Collections.Generic.List`1[[System.Collections.Generic.List`1[[LevelProgressData, Assembly-CSharp, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null]], mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089]],mscorlib",
+		"value" : [
+		[
+			{
+				"starsAchieved" : 3
+			}
+		],[
+			{
+				"starsAchieved" : 3
+			},{
+				"starsAchieved" : 3
+			},{
+				"starsAchieved" : 3
+			},{
+				"starsAchieved" : 3
+			},{
+				"starsAchieved" : 3
+			},{
+				"starsAchieved" : 3
+			},{
+				"starsAchieved" : 3
+			},{
+				"starsAchieved" : 3
+			}
+		],[
+			{
+				"starsAchieved" : 3
+			},{
+				"starsAchieved" : 3
+			},{
+				"starsAchieved" : 3
+			},{
+				"starsAchieved" : 3
+			},{
+				"starsAchieved" : 3
+			},{
+				"starsAchieved" : 3
+			},{
+				"starsAchieved" : 3
+			},{
+				"starsAchieved" : 3
+			}
+		],[
+			{
+				"starsAchieved" : 3
+			},{
+				"starsAchieved" : 3
+			},{
+				"starsAchieved" : 3
+			},{
+				"starsAchieved" : 3
+			},{
+				"starsAchieved" : 3
+			},{
+				"starsAchieved" : 3
+			},{
+				"starsAchieved" : 3
+			},{
+				"starsAchieved" : 3
+			}
+		],[
+			{
+				"starsAchieved" : 3
+			},{
+				"starsAchieved" : 3
+			},{
+				"starsAchieved" : 3
+			},{
+				"starsAchieved" : 3
+			},{
+				"starsAchieved" : 3
+			},{
+				"starsAchieved" : 3
+			},{
+				"starsAchieved" : 3
+			},{
+				"starsAchieved" : 3
+			}
+		],[
+			{
+				"starsAchieved" : 3
+			},{
+				"starsAchieved" : 3
+			},{
+				"starsAchieved" : 3
+			},{
+				"starsAchieved" : 3
+			},{
+				"starsAchieved" : 3
+			},{
+				"starsAchieved" : 3
+			},{
+				"starsAchieved" : 3
+			},{
+				"starsAchieved" : 3
+			}
+		],[
+			{
+				"starsAchieved" : 3
+			},{
+				"starsAchieved" : 3
+			},{
+				"starsAchieved" : 3
+			},{
+				"starsAchieved" : 3
+			},{
+				"starsAchieved" : 3
+			},{
+				"starsAchieved" : 3
+			},{
+				"starsAchieved" : 3
+			},{
+				"starsAchieved" : 3
+			}
+		]
+	]
+	},
+	"VSSettings" : {
+		"__type" : "System.Collections.Generic.Dictionary`2[[System.String, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089],[System.Collections.Generic.Dictionary`2[[System.String, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089],[System.Boolean, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089]], mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089]],mscorlib",
+		"value" : {"opponent":{"human":true,"bots":false
+		},"arenas":{"dojo":false,"ruins":true,"clifftop":false,"city":false,"forest":false,"dunes":false,"watch tower":false
+		},"arena size":{"small":false,"medium":true,"large":false
+		},"fighters":{"1v1":true,"2v2":false,"3v3":false
+		},"fight style":{"brawl":true,"cuffed":false,"midboss":false,"boss":false
+		},"headwear":{"none":true,"helmet":false,"helmet2hit":false
+		},"shield":{"noshield":true,"woodshield":false,"metalshield":false
+		},"glove":{"noglove":true,"boxing":false,"bat":false
+		},"right hand":{"norighthand":true,"throwingknife":false,"gun":false
+		},"walls":{"nowalls":true,"springboards":false,"spikes":false
+		},"floor":{"nofloor":true,"ice":false
+		}
+	}
+	},
+	"Equipped" : {
+		"__type" : "System.Collections.Generic.Dictionary`2[[EquippableType, Assembly-CSharp, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null],[System.Int32, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089]],mscorlib",
+		"value" : {0:9,1:0,2:0,3:0
+	}
+	},
+	"Equipped2" : {
+		"__type" : "System.Collections.Generic.Dictionary`2[[EquippableType, Assembly-CSharp, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null],[System.Int32, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089]],mscorlib",
+		"value" : {0:9,1:0,2:0,3:0
+	}
+	},
+	"CustomizationUnlocks" : {
+		"__type" : "System.Collections.Generic.Dictionary`2[[EquippableType, Assembly-CSharp, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null],[System.Collections.Generic.List`1[[System.Boolean, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089]], mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089]],mscorlib",
+		"value" : {0:[
+			true,true,true,true,true,true,true,true,true,true
+		],1:[
+			true,true,true,true,true,true,true,true,true
+		],2:[
+			true,true,true,true,true,true,true,true,true,true,true,true,true,true,true
+		],3:[
+			true,true,true,true,true,true,true,true,true,true,true,true,true,true,true
+		]
+	}
+	},
+	"EquipRandom" : {
+		"__type" : "System.Collections.Generic.List`1[[System.Collections.Generic.Dictionary`2[[EquippableType, Assembly-CSharp, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null],[System.Boolean, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089]], mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089]],mscorlib",
+		"value" : [
+		{0:false,1:false,2:false,3:false
+		},{0:false,1:false,2:false,3:false
+		},{0:false,1:false,2:true,3:true
+		}
+	]
+	},
+	"modeUnlockDone" : {
+		"__type" : "System.Collections.Generic.Dictionary`2[[System.String, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089],[System.Boolean, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089]],mscorlib",
+		"value" : {"Classic":true,"Midboss":true,"Boss":true,"Mirror":true
+	}
+	},
+	"alertQueue" : {
+		"__type" : "System.Collections.Generic.List`1[[System.String, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089]],mscorlib",
+		"value" : [
+		
+	]
+	},
+	"alertNeeded" : {
+		"__type" : "System.Collections.Generic.Dictionary`2[[System.String, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089],[System.Boolean, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089]],mscorlib",
+		"value" : {"first_cosmetic":true,"single_midboss":true,"single_boss":true,"single_mirror":true
+	}
+	},
+	"firstTimeUser" : {
+		"__type" : "float",
+		"value" : 1
+	},
+	"gold" : {
+		"__type" : "float",
+		"value" : 1E+12
+	},
+	"hasPurchasedNoAds" : {
+		"__type" : "bool",
+		"value" : false
+	},
+	"totalTimePlayed" : {
+		"__type" : "float",
+		"value" : 238.287064
+	},
+	"currentAdsTimeTimeout" : {
+		"__type" : "float",
+		"value" : 1E+12
+	},
+	"timePlayedSinceReviewRequest" : {
+		"__type" : "float",
+		"value" : 1E+12
+	},
+	"isFirstRequestNeeded" : {
+		"__type" : "bool",
+		"value" : true
+	},
+	"hasViewedShop" : {
+		"__type" : "bool",
+		"value" : true
+	},
+	"hasViewedDojoLevels" : {
+		"__type" : "bool",
+		"value" : true
+	},
+	"dailyBonusLevelIndex" : {
+		"__type" : "int",
+		"value" : 0
+	},
+	"lastPlayedDailyBonus" : {
+		"__type" : "string",
+		"value" : "2024-10-16"
+	},
+	"sound" : {
+		"__type" : "float",
+		"value" : 1
+	},
+	"music" : {
+		"__type" : "float",
+		"value" : 0.75
+	},
+	"tips" : {
+		"__type" : "bool",
+		"value" : true
+	},
+	"enableRewardedAds" : {
+		"__type" : "bool",
+		"value" : false
+	},
+	"Defense1p_size" : {
+		"__type" : "float",
+		"value" : 1.75
+	},
+	"Defense1p_x" : {
+		"__type" : "float",
+		"value" : 100
+	},
+	"Defense1p_y" : {
+		"__type" : "float",
+		"value" : 20
+	},
+	"Offense1p_size" : {
+		"__type" : "float",
+		"value" : 1.75
+	},
+	"Offense1p_x" : {
+		"__type" : "float",
+		"value" : -100
+	},
+	"Offense1p_y" : {
+		"__type" : "float",
+		"value" : 20
+	},
+	"Defense2pPlayer1_size" : {
+		"__type" : "float",
+		"value" : 1.75
+	},
+	"Defense2pPlayer1_x" : {
+		"__type" : "float",
+		"value" : 10
+	},
+	"Defense2pPlayer1_y" : {
+		"__type" : "float",
+		"value" : 0
+	},
+	"Offense2pPlayer1_size" : {
+		"__type" : "float",
+		"value" : 1.75
+	},
+	"Offense2pPlayer1_x" : {
+		"__type" : "float",
+		"value" : 185
+	},
+	"Offense2pPlayer1_y" : {
+		"__type" : "float",
+		"value" : 10
+	},
+	"Defense2pPlayer2_size" : {
+		"__type" : "float",
+		"value" : 1.75
+	},
+	"Defense2pPlayer2_x" : {
+		"__type" : "float",
+		"value" : -16.9300537
+	},
+	"Defense2pPlayer2_y" : {
+		"__type" : "float",
+		"value" : 0
+	},
+	"Offense2pPlayer2_size" : {
+		"__type" : "float",
+		"value" : 1.75
+	},
+	"Offense2pPlayer2_x" : {
+		"__type" : "float",
+		"value" : -189.324463
+	},
+	"Offense2pPlayer2_y" : {
+		"__type" : "float",
+		"value" : 0
+	}
+}
